@@ -61,3 +61,7 @@ A self-hosted IP investigation workflow for trusted local networks, covering inp
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web%20Development-20232A?style=flat-square&logo=html5&logoColor=white)
 ![Security Automation](https://img.shields.io/badge/Security%20Automation-6E40C9?style=flat-square&logo=githubactions&logoColor=white)
+
+## Connect with me
+
+[![Email](https://img.shields.io/badge/Email-LuckinSven%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:LuckinSven@gmail.com)
